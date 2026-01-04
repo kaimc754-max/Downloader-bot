@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-BOT_TOKEN = "6882188434:AAH-WcFBfPyKYq-4GzlpZrtj8TG6th2Se1wre"
+BOT_TOKEN = "5992875466:AAGU1C42aXsrnCnSoO9n5omqqbCdMdnitYI"
 BASE = "https://www.xoffline.com"
 API = f"{BASE}/callDownloaderApi"
 
