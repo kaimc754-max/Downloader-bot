@@ -1,4 +1,4 @@
-AAH-WcFBfPyKYq-4GzlpZrtj8TG6th2Se1wreBASEFBfPyKYq-4GzlpZrtj8TG6th2Se1wreBASE telebot
+import telebot
 import requests
 
 BOT_TOKEN = "6882188434:AAH-WcFBfPyKYq-4GzlpZrtj8TG6th2Se1wre"
