@@ -1,7 +1,8 @@
-import telebot
+AAH-WcFBfPyKYq-4GzlpZrtj8TG6th2Se1wreBASEFBfPyKYq-4GzlpZrtj8TG6th2Se1wreBASE telebot
 import requests
 
-BOT_TOKEN = "6882188434:AAH-WcFBfPyKYq-4GzlpZrtj8TG6th2Se1wreBASE = "https://www.xoffline.com"
+BOT_TOKEN = "6882188434:AAH-WcFBfPyKYq-4GzlpZrtj8TG6th2Se1wre"
+BASE = "https://www.xoffline.com"
 API = f"{BASE}/callDownloaderApi"
 
 API_TOKEN = "3c409435f781890e402cdf7312aa47f2a7e23594f5615ce524f8e711bc69acc5"
